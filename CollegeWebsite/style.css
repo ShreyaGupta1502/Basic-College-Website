@@ -1,0 +1,31 @@
+.container1
+{
+    border:solid 2px black;
+    align-items: center;
+    width:95%;
+    height:600px;
+    margin:10px;
+    padding:10px;
+}
+.container2
+{
+    border:solid 2px black;
+    align-content: center;
+    width:95%;
+    height:150px;
+    margin:10px;
+    padding:10px;
+    color:white;
+    background-color: brown;
+}
+.container3
+{
+    border:solid 2px black;
+    align-content: center;
+    width:95%;
+    height:150px;
+    margin:10px;
+    padding:10px;
+    color:white;
+    background-color: brown;
+}
